@@ -233,30 +233,25 @@ acronym {
   font-size: 0.37333333rem;
 }
 .main-page img.pic-show {
+  width: 10rem;
   margin: 0.53333333rem 0;
 }
 .main-page img.pic-show01 {
-  width: 10rem;
   height: 6.69333333rem;
 }
 .main-page img.pic-show02 {
-  width: 9.86666667rem;
   height: 7.82666667rem;
 }
 .main-page img.pic-show03 {
-  width: 9.86666667rem;
   height: 7.50666667rem;
 }
 .main-page img.pic-show04 {
-  width: 9.86666667rem;
   height: 5.74666667rem;
 }
 .main-page img.pic-show05 {
-  width: 9.86666667rem;
   height: 6.69333333rem;
 }
 .main-page img.pic-show06 {
-  width: 9.86666667rem;
   height: 7.02666667rem;
   margin-bottom: 0;
 }
