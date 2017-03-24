@@ -156,12 +156,23 @@ acronym {
 .main-page {
   padding-top: 1.04rem;
 }
+.main-page div.header-left {
+  margin-left: 0.68rem;
+  margin-right: 0.68rem;
+  border-left: 0.14666667rem solid #eee;
+}
+.main-page p {
+  line-height: 180%;
+}
 .main-page p,
 .main-page h1,
 .main-page h2,
 .main-page h3 {
   margin-left: 0.68rem;
   margin-right: 0.68rem;
+}
+.main-page h2 {
+  margin-top: 0.8rem;
 }
 .main-page h1 {
   font-size: 0.66666667rem;
@@ -171,12 +182,12 @@ acronym {
   margin-bottom: 0.4rem;
 }
 .main-page p {
-  margin-bottom: 0.26666667rem;
+  margin-bottom: 0.4rem;
   color: #626262;
   font-size: 0.34666667rem;
 }
 .main-page p.tip {
-  padding-left: 0.66666667rem;
+  margin-left: 0.48rem;
 }
 .main-page p.tip span {
   font-weight: bold;
@@ -185,7 +196,7 @@ acronym {
 .main-page p.i-tip {
   font-style: italic;
   text-align: center;
-  margin-bottom: 0.4rem;
+  margin-top: 0.53333333rem;
   position: relative;
 }
 .main-page p.i-tip span {
@@ -248,8 +259,15 @@ acronym {
 }
 .main-page p.tip-answer {
   font-weight: bold;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.46666667rem;
   font-style: italic;
+}
+.main-page p.tip-answer span.tip-answer-icon {
+  margin-top: 0.24rem;
+  width: 1.26666667rem;
+  height: 0.14666667rem;
+  background: #eee;
+  display: block;
 }
 .main-page span.i-blod {
   font-weight: bold;
