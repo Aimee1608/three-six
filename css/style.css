@@ -162,7 +162,7 @@ acronym {
   border-left: 0.14666667rem solid #eee;
 }
 .main-page p {
-  line-height: 180%;
+  line-height: 200%;
 }
 .main-page p,
 .main-page h1,
@@ -184,7 +184,7 @@ acronym {
 .main-page p {
   margin-bottom: 0.4rem;
   color: #626262;
-  font-size: 0.34666667rem;
+  font-size: 0.37333333rem;
 }
 .main-page p.tip {
   margin-left: 0.48rem;
