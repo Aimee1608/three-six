@@ -161,6 +161,9 @@ acronym {
   margin-right: 0.68rem;
   border-left: 0.14666667rem solid #eee;
 }
+.main-page div.header-left p {
+  margin-right: 0;
+}
 .main-page p {
   line-height: 200%;
 }
@@ -301,7 +304,7 @@ acronym {
   height: 154 / rem;
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 40%;
   transform: translate(-50%, -50%);
 }
 .main-page p.answer-last01,
